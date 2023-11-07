@@ -1,0 +1,26 @@
+/* CSS styles for the Navbar component */
+nav {
+  background: #007bff;
+  color: #fff;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+li {
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
